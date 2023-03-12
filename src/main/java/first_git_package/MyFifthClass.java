@@ -1,4 +1,4 @@
 package first_git_package;
 
-public class MyFiftClass {
+public class MyFifthClass {
 }
